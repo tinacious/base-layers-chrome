@@ -2,10 +2,15 @@
 
 > Put a grid on it
 
-<img src="icon.png" style="max-width: 128px;" width="128" />
+<img src="icon.png" width="128px" />
 
 This Chrome extension is for use with the [Base Layers](https://github.com/tinacious/base-layers) Sass framework.
 
+<img src="screenshots/screenshot-browser-action.png" width="272px">
+
+Just click on the tank top to put a grid on it.
+
+![](screenshots/screenshot-grid-preview.png)
 
 ## Installation
 
