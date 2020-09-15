@@ -10,6 +10,8 @@ This Chrome extension is for use with the [Base Layers](https://github.com/tinac
 
 Just click on the tank top to put a grid on it.
 
+Get it from the [Google Chrome Web Store](https://chrome.google.com/webstore/detail/base-layers/fhkhleopmmdiokahobpnchddheokcldd).
+
 ![](screenshots/screenshot-grid-preview.png)
 
 ## Installation
