@@ -24,12 +24,17 @@
         const column = document.createElement('div');
         column.classList.add('col-1');
         column.classList.add('col-md-1');
-        column.style.backgroundColor = isEven ? 'darkturquoise' : 'deeppink';
         column.style.textAlign = 'center';
         column.style.opacity = '0.3';
         column.style.height = '100vh';
+
+        const contents = document.createElement('div');
+        contents.style.backgroundColor = isEven ? 'darkturquoise' : 'deeppink';
         column.style.color = '#ffffff';
-        column.innerText = i;
+        contents.style.height = '100vh';
+        contents.innerText = i;
+
+        column.appendChild(contents);
 
         rowElement.appendChild(column);
       }
