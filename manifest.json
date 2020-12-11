@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Base Layers",
   "author": "Tina Holly (info@tinaciousdesign.com)",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Base Layers grid overlay",
   "browser_action": {
     "default_icon": {

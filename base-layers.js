@@ -10,7 +10,7 @@
       containerWrapperElement.id = Grid.id;
       containerWrapperElement.style.position = 'fixed';
       containerWrapperElement.style.zIndex = '999';
-      containerWrapperElement.style.width = '100vw';
+      containerWrapperElement.style.width = '100%';
       containerWrapperElement.style.height = '100vh';
 
       const containerElement = document.createElement('div');
