@@ -34,6 +34,7 @@ The following command bundles the Chrome extension and includes only the necessa
 
 ## Changelog
 
-| Version | Changes              |
-| :------ | :------------------- |
-| 0.1.0   | Initial release 🚀 |
+| Version | Changes                                                                                                      |
+| :------ | :----------------------------------------------------------------------------------------------------------- |
+| 0.2.1   | [Width fix](https://github.com/tinacious/base-layers-chrome/commit/5e2ed1c8a94860da40a82b8a01aeae3094c9dd83) |
+| 0.1.0   | Initial release 🚀                                                                                         |
