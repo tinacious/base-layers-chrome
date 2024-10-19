@@ -22,7 +22,6 @@ Get it from the [Google Chrome Web Store](https://chrome.google.com/webstore/det
 4. Click "Load unpacked extension"
 5. Find this directory and load it in. The root of the directory needs to have the `manifest.json` file
 
-
 ## Distribution
 
 The following command bundles the Chrome extension and includes only the necessary files for distribution:
@@ -31,10 +30,10 @@ The following command bundles the Chrome extension and includes only the necessa
 ./bundle.sh
 ```
 
-
 ## Changelog
 
 | Version | Changes                                                                                                      |
 | :------ | :----------------------------------------------------------------------------------------------------------- |
+| 0.2.2   | Support manifest v3                                                                                          |
 | 0.2.1   | [Width fix](https://github.com/tinacious/base-layers-chrome/commit/5e2ed1c8a94860da40a82b8a01aeae3094c9dd83) |
-| 0.1.0   | Initial release 🚀                                                                                         |
+| 0.1.0   | Initial release 🚀                                                                                           |
