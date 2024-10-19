@@ -1,20 +1,21 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Base Layers",
   "author": "Tina Holly (info@tinaciousdesign.com)",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Base Layers grid overlay",
-  "browser_action": {
+  "action": {
     "default_icon": {
       "38": "icon.png"
     }
   },
   "background": {
-    "scripts": [
-      "background.js"
-    ]
+    "service_worker": "background.js"
   },
-  "permissions": ["activeTab"],
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
   "icons": {
     "128": "icon.png"
   }
